@@ -1,3 +1,5 @@
+## 👋 Hey there! I'm Satej
+
 ### My Languages, Technologies, and Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts,java,php,py,html,css)](https://skillicons.dev)
 
