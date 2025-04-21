@@ -1,7 +1,3 @@
-## 👋 Hi there! I'm Satej
-
-I'm a passionate programmer and avid mathematician. I enjoy developing innovative apps and solving competitive programming problems. 
-
 ### My Languages, Technologies, and Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts,java,php,py,html,css)](https://skillicons.dev)
 
